@@ -1,2 +1,6 @@
 /robots.txt
 	Content-Type: text/plain; charset=us-ascii
+
+/*
+	Referrer-Policy: no-referrer
+
